@@ -1,7 +1,5 @@
 # Sis app
 
-Simple spring project for EAR
-
 #	Představení projektu
 
 Systém je zjednodušenou analogií KOS, která podporuje přidávání kurzů, jejich prohlížení a úpravy. Učitelé mohou vytvořit kurz a vybrat pro něj učebny, což omezuje kapacitu kurzu. Studenti se nemohou zapsat do kurzu, pokud v kurzu nezbývají žádná další volná místa, studenti si mohou také prohlédnout kurzy, kterých se účastní. Učitelé si zase mohou zobrazit kurzy, které vyučují. Na konci kurzu mohou učitelé dát známky za kurz, které studenti absolvovali. Na základě udělených známek se vypočítá průměrnou známku, podle kterého se rozhodne, zda student postoupí do dalšího kurzu, nebo ne. Portál bude také podporovat systém rozesílání zprav souvisejících se studiem (změny v rozvrhu, zrušení vyučování atd.).
@@ -13,6 +11,7 @@ Admin bude mít možnost upravovat všechna data a přidělovat role.
 Role User existuje jenom před přidělováním role adminem.
 
 * Student
+
 Studenti se mohou přihlásit do kurzu, vytvořit si vlastní rozvrh a rezervovat předměty pro příští semestr. Studenti budou informováni o novinkách.
 
 * Teacher
