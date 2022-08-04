@@ -1,2 +1,3 @@
-# School-system-project
- 
+# Sis app
+
+Simple spring project for EAR
