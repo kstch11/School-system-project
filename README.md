@@ -16,9 +16,11 @@ Role User existuje jenom před přidělováním role adminem.
 Studenti se mohou přihlásit do kurzu, vytvořit si vlastní rozvrh a rezervovat předměty pro příští semestr. Studenti budou informováni o novinkách.
 
 * Teacher
+
 Učitelé mohou vytvořit kurz, který se automaticky zapisuje do jejich rozvrhu, také jejich funkce zahrnuje vytváření zpráv a hodnocení studentů.
 
 * Admin
+
 Admin přidělává registrovaným uživatelům role (student, učitel) a potvrzuje vytvoření zprávy.
 
 # Softwarové informace
